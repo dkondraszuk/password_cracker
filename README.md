@@ -1,4 +1,4 @@
-# Password generator
+# \[WIP] Password generator
 Simple password generator written in Python using Brute-Force technique.
 
 Password generator allows you to specify minimum requirements for the password (password length, amount of digits etc.)
